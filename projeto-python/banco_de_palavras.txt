@@ -1,0 +1,4 @@
+uva;fruta
+banana;macaco
+batata;mcdonalds
+sistemas para internet;curso
